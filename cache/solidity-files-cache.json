@@ -1,0 +1,75 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/surajpoddar/blockchainSH/assign_plena/contracts/Payload.sol": {
+      "lastModificationDate": 1701853953363,
+      "contentHash": "e6319a74b8d45bebba8d04f32f3ecbe3",
+      "sourceName": "contracts/Payload.sol",
+      "solcConfig": {
+        "version": "0.8.8",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Payload"
+      ]
+    },
+    "/home/surajpoddar/blockchainSH/assign_plena/contracts/Test.sol": {
+      "lastModificationDate": 1701853945103,
+      "contentHash": "09513341d260b005c473dc0c33baf9b1",
+      "sourceName": "contracts/Test.sol",
+      "solcConfig": {
+        "version": "0.8.8",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.8"
+      ],
+      "artifacts": [
+        "Test"
+      ]
+    }
+  }
+}
